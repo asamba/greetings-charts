@@ -1,0 +1,4 @@
+# parentchart/requirements.yaml
+dependencies:
+  - name: helloworld
+  - name: hiworld
